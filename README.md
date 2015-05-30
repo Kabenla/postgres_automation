@@ -4,7 +4,7 @@ for any future projects that involve database interactions
 
 To test simply
 * run `vagrant up`
-* Navigate to `cd /var/www/sites/deploy_postgres/
+* Navigate to `cd /var/www/sites/deploy_postgres/`
 * run `./dbinstall.sh`
 
 This should install a Postgres database with a user `vagrant` and a database table `lad_traits`
